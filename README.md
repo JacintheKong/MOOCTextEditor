@@ -6,29 +6,29 @@ document.Document.java
 document.BasicDocument.java
 
 Week 2:
-This module covered Efficiency Analysis and Benchmarking i.e. optimizing the implementation of the Document class that was implemented in Module 1, and then measure how much faster the new implementation is. Files introduced in this module:
+This module covered Efficiency Analysis and Benchmarking i.e. optimizing the implementation of the Document class that was implemented in Module 1, and then measure how much faster the new implementation is. Files introduced in this module:  
 document.EfficientDocument.java
 
 Week 3:
-This module covered implementing and testing a Linked List using JUnit. Files introduced in this module:
-textgen.MyLinkedList*.java
-textgen.MarkovTextGenerator.java
-textgen.MarkovTextGenerator*.java
+This module covered implementing and testing a Linked List using JUnit. Files introduced in this module:  
+textgen.MyLinkedList*.java  
+textgen.MarkovTextGenerator.java  
+textgen.MarkovTextGenerator*.java  
 
 Week 4:
-This module covered working with Trees including Binary Search Trees and Tries. The programming assignment for this module was adding the ability to flag misspelled words as well as perform auto-complete suggestions for the user's text as they type. Files introduced in this module:
-spelling.SpellingSuggest.java
-spelling.AutoComplete.java
-spelling.Dictionary.java
-spelling.Dictionary*.java
-spelling.AutoCompleteDictionaryTrie.java
-spelling.TrieNode.java
+This module covered working with Trees including Binary Search Trees and Tries. The programming assignment for this module was adding the ability to flag misspelled words as well as perform auto-complete suggestions for the user's text as they type. Files introduced in this module:  
+spelling.SpellingSuggest.java  
+spelling.AutoComplete.java  
+spelling.Dictionary.java  
+spelling.Dictionary*.java  
+spelling.AutoCompleteDictionaryTrie.java  
+spelling.TrieNode.java  
 
 Week 5:
-This module covered Hash Maps and edit distance. The programming assignment for this module was to implement the highly practical feature of giving someone suggestions for how to correct a misspelled word. Files introduced in this module:
-spelling.WordPath.java
-spelling.NearbyWords.java
-spelling.WPTree.java
+This module covered Hash Maps and edit distance. The programming assignment for this module was to implement the highly practical feature of giving someone suggestions for how to correct a misspelled word. Files introduced in this module:  
+spelling.WordPath.java  
+spelling.NearbyWords.java  
+spelling.WPTree.java  
 
 SETUP:
 Importing Project into eclipse:
